@@ -57,6 +57,72 @@ http://111.48.34.237/PLTV/88888888/224/3221229868/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221229861/1.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视",CCTV17
 http://111.48.34.237/PLTV/88888888/224/3221229831/1.m3u8
+#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
+http://111.48.34.237/PLTV/88888888/224/3221229800/1.m3u8
+#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="卫视",湖北经视
+http://111.48.34.237/PLTV/88888888/224/3221229804/1.m3u8
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
+http://111.48.34.237/PLTV/88888888/224/3221229806/1.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://111.48.34.237/PLTV/88888888/224/3221229812/1.m3u8
+#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="卫视",湖北垄上
+http://111.48.34.237/PLTV/88888888/224/3221229833/1.m3u8
+#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="卫视",湖北经视
+http://111.48.34.237/PLTV/88888888/224/3221230388/1.m3u8
+#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="卫视",湖北垄上
+http://111.48.34.237/PLTV/88888888/224/3221230390/1.m3u8
+#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="卫视",湖北影视
+http://111.48.34.237/PLTV/88888888/224/3221230404/1.m3u8
+#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="卫视",湖北教育
+http://111.48.34.237/PLTV/88888888/224/3221230406/1.m3u8
+#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="卫视",湖北影视
+ttp://111.48.34.237/PLTV/88888888/224/3221230428/1.m3u8
+#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="卫视",湖北教育
+http://111.48.34.237/PLTV/88888888/224/3221230430/1.m3u8
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
+http://111.48.34.237/PLTV/88888888/224/3221230439/1.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
+http://111.48.34.237/PLTV/88888888/224/3221230440/1.m3u8
+#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
+http://111.48.34.237/PLTV/88888888/224/3221230441/1.m3u8
+#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="卫视",湖北生活
+http://111.48.34.237/PLTV/88888888/224/3221230457/1.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://111.48.34.237/PLTV/88888888/224/3221230509/1.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000194?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3y88UL5FMgCtyx%2Bl9WpuMp0V9gq8sycHNdLmDknn0JD%2Fxuv%2Bljp2WOa1rgRpDFN9A%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000204%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000194%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="卫视",湖北经视
+rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDCEL9Pi95qdap5hhT2XsHxLtFBMU8DIzZdm%2Fg1Gpd%2FiUc%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000338%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000328%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
+rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDCITPxRwPooGM%2BXMf6f5xUP%2FNZR9Nm8y%2B%2F0a1Ra4A4O1g%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000339%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000329%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="卫视",湖北垄上
+rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk3R3MXAmvC%2FuBhDcXRRRG8R9LdkNxR1oKa3duMT%2BC%2FvWHDfMNoeitvNlEdhlsmKUuU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000340%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000330%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
+rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDC7pgt8rubQskyP%2FidxcT1KGf2VeGGGCZaSxnELpLWedg%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000337%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000327%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="卫视",湖北影视
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65xtG%2Fy5Lr6hciVgut%2Fyt%2F4tKwUGh%2FzboIMQ62345XaQU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000518%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000509%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="卫视",湖北教育
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65mYiSD7qIfMXHawkG%2FPkivzoRHZTCPoWz4ie53Np%2BQgY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000519%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000510%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="卫视",湖北生活
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR6524ac76YLadZ7hmzoEDCW86FMfIqkzVdmYGHKjfiwg5I%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000517%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000508%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
+rtsp://111.48.34.138:1554/170000004112/HBGD9934983436000788486629361083?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaTt1%2F22TZaGH%2FWV13Vpf5NF4WYn5ikeB6QpVm1B6l4%2F%2BLAgiUTfvjGqKxao1ErrR2bJqk0t%2BTQFqC%2FIEILUy3xk%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9934983436000788486629361083%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C482500586%2CEND&GuardEncType=2
+#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="卫视",湖北教育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/1.m3u8
+#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/1.m3u8
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/1.m3u8
+#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="卫视",湖北垄上
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
+#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="卫视",湖北经视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
+#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="卫视",湖北影视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/1.m3u8
+#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="卫视",湖北生活
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://111.48.34.237/PLTV/88888888/224/3221229739/1.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="卫视",北京卫视
@@ -71,44 +137,24 @@ http://111.48.34.237/PLTV/88888888/224/3221229756/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221229758/1.m3u8
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://111.48.34.237/PLTV/88888888/224/3221229778/1.m3u8
-#EXTINF:-1,tvg-id="武汉教育" tvg-name="武汉教育" tvg-logo="https://epg.v1.mk/logo/武汉教育.png" group-title="其他",武汉教育
-http://111.48.34.237/PLTV/88888888/224/3221229783/1.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 http://111.48.34.237/PLTV/88888888/224/3221229786/1.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://111.48.34.237/PLTV/88888888/224/3221229788/1.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="卫视",海南卫视
 http://111.48.34.237/PLTV/88888888/224/3221229794/1.m3u8
-#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
-http://111.48.34.237/PLTV/88888888/224/3221229800/1.m3u8
-#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="卫视",湖北经视
-http://111.48.34.237/PLTV/88888888/224/3221229804/1.m3u8
-#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
-http://111.48.34.237/PLTV/88888888/224/3221229806/1.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
 http://111.48.34.237/PLTV/88888888/224/3221229808/1.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
 http://111.48.34.237/PLTV/88888888/224/3221229810/1.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://111.48.34.237/PLTV/88888888/224/3221229812/1.m3u8
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="其他",金鹰纪实
-http://111.48.34.237/PLTV/88888888/224/3221229814/1.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://111.48.34.237/PLTV/88888888/224/3221229816/1.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://111.48.34.237/PLTV/88888888/224/3221229825/1.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://111.48.34.237/PLTV/88888888/224/3221229827/1.m3u8
-#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="卫视",湖北垄上
-http://111.48.34.237/PLTV/88888888/224/3221229833/1.m3u8
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="卫视",河北卫视
 http://111.48.34.237/PLTV/88888888/224/3221229840/1.m3u8
-#EXTINF:-1,tvg-id="襄阳综合" tvg-name="襄阳综合" tvg-logo="https://epg.v1.mk/logo/襄阳综合.png" group-title="其他",襄阳综合
-http://111.48.34.237/PLTV/88888888/224/3221229846/1.m3u8
-#EXTINF:-1,tvg-id="襄阳综合" tvg-name="襄阳综合" tvg-logo="https://epg.v1.mk/logo/襄阳综合.png" group-title="其他",襄阳经济生活
-http://111.48.34.237/PLTV/88888888/224/3221229848/1.m3u8
-#EXTINF:-1,tvg-id="襄阳综合" tvg-name="襄阳综合" tvg-logo="https://epg.v1.mk/logo/襄阳综合.png" group-title="其他",襄阳公共
-http://111.48.34.237/PLTV/88888888/224/3221229850/1.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 http://111.48.34.237/PLTV/88888888/224/3221229870/1.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="卫视",四川卫视
@@ -129,28 +175,8 @@ http://111.48.34.237/PLTV/88888888/224/3221230141/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230143/1.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
 http://111.48.34.237/PLTV/88888888/224/3221230328/1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://111.48.34.237/PLTV/88888888/224/3221230345/1.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://111.48.34.237/PLTV/88888888/224/3221230361/1.m3u8
-#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="卫视",湖北经视
-http://111.48.34.237/PLTV/88888888/224/3221230388/1.m3u8
-#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="卫视",湖北垄上
-http://111.48.34.237/PLTV/88888888/224/3221230390/1.m3u8
-#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="卫视",湖北影视
-http://111.48.34.237/PLTV/88888888/224/3221230404/1.m3u8
-#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="卫视",湖北教育
-http://111.48.34.237/PLTV/88888888/224/3221230406/1.m3u8
-#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="卫视",湖北影视
-ttp://111.48.34.237/PLTV/88888888/224/3221230428/1.m3u8
-#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="卫视",湖北教育
-http://111.48.34.237/PLTV/88888888/224/3221230430/1.m3u8
-#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
-http://111.48.34.237/PLTV/88888888/224/3221230439/1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
-http://111.48.34.237/PLTV/88888888/224/3221230440/1.m3u8
-#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
-http://111.48.34.237/PLTV/88888888/224/3221230441/1.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="央视",CCTV17
 http://111.48.34.237/PLTV/88888888/224/3221230447/1.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
@@ -159,8 +185,6 @@ http://111.48.34.237/PLTV/88888888/224/3221230448/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230454/1.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="卫视",山东卫视
 http://111.48.34.237/PLTV/88888888/224/3221230456/1.m3u8
-#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="卫视",湖北生活
-http://111.48.34.237/PLTV/88888888/224/3221230457/1.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
 http://111.48.34.237/PLTV/88888888/224/3221230458/1.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="卫视",浙江卫视
@@ -169,8 +193,6 @@ ttp://111.48.34.237/PLTV/88888888/224/3221230460/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230462/1.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://111.48.34.237/PLTV/88888888/224/3221230464/1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://111.48.34.237/PLTV/88888888/224/3221230468/1.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.v1.mk/logo/梨园.png" group-title="其他",梨园频道
 http://111.48.34.237/PLTV/88888888/224/3221230496/1.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="卫视",江苏卫视
@@ -187,8 +209,6 @@ http://111.48.34.237/PLTV/88888888/224/3221230503/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230505/1.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
 http://111.48.34.237/PLTV/88888888/224/3221230507/1.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://111.48.34.237/PLTV/88888888/224/3221230509/1.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="卫视",河南卫视
 ttp://111.48.34.237/PLTV/88888888/224/3221230511/1.m3u8
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="卫视",江西卫视
@@ -233,34 +253,6 @@ rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000580?rrsip=10
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000503?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65g6UXBH41Ty3Bn%2BraaCeezZnWkSdnxnmIfl3fAqPz0W4%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000503%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000494%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="超高清" tvg-name="超高清" tvg-logo="https://epg.v1.mk/logo/超高清.png" group-title="央视",CCTV超高清4K
 rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaSujYdOJIxzHbqUCHoVOOmYONcro96BwexVkCaWGN4AaDllzUgOtVDbNPl%2BUkpMwEYepwS3fw7n1HXf%2B%2B9pEpZE%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9935055570721873923307127370%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C482375860%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000194?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3y88UL5FMgCtyx%2Bl9WpuMp0V9gq8sycHNdLmDknn0JD%2Fxuv%2Bljp2WOa1rgRpDFN9A%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000204%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000194%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="卫视",湖北经视
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444588?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDCEL9Pi95qdap5hhT2XsHxLtFBMU8DIzZdm%2Fg1Gpd%2FiUc%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000338%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000328%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444593?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDCITPxRwPooGM%2BXMf6f5xUP%2FNZR9Nm8y%2B%2F0a1Ra4A4O1g%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000339%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000329%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="卫视",湖北垄上
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444600?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk3R3MXAmvC%2FuBhDcXRRRG8R9LdkNxR1oKa3duMT%2BC%2FvWHDfMNoeitvNlEdhlsmKUuU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000340%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000330%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
-rtsp://111.48.34.138:1554/170000004112/10000100000000050000000002444582?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyacccgPH4PDT9RMLITKlcLk2eAXNjqpshkHT1XNIshYDC7pgt8rubQskyP%2FidxcT1KGf2VeGGGCZaSxnELpLWedg%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000337%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000327%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="卫视",湖北影视
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000518?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65xtG%2Fy5Lr6hciVgut%2Fyt%2F4tKwUGh%2FzboIMQ62345XaQU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000518%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000509%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="卫视",湖北教育
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000519?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65mYiSD7qIfMXHawkG%2FPkivzoRHZTCPoWz4ie53Np%2BQgY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000519%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000510%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="卫视",湖北生活
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000517?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR6524ac76YLadZ7hmzoEDCW86FMfIqkzVdmYGHKjfiwg5I%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000517%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000508%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="武汉新闻综合" tvg-name="武汉新闻综合" tvg-logo="https://epg.v1.mk/logo/武汉新闻综合.png" group-title="其他",武汉新闻
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000429?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmg5nHjBlUyYTY9KRvBxOCGBjLD1V01VKOGmqOjc4WH5E%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000429%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000419%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="武汉电视剧" tvg-name="武汉电视剧" tvg-logo="https://epg.v1.mk/logo/武汉电视剧.png" group-title="其他",武汉电视剧
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000430?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYm29ZTjtQUo3CezKY2PUkuRW3Z8LkKuiNFObItDUu3qDg%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000430%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000420%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="其他",武汉生活
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000632?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0LuFoFSu2Nvxun9VyOzlN9E%2BtrD%2FStoemUkiS2Olh1xB%2FK7IKhBkKIG2MaCyAbEUU%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000632%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000615%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="武汉文体频道" tvg-name="武汉文体频道" tvg-logo="https://epg.v1.mk/logo/武汉文体频道.png" group-title="其他",武汉文体
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000431?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3C19VlNNbchMSzo%2B9YYQYmysIuxM9S685Rs77DTeAyAu%2B294VKnzmGP7%2F1ykZb5CY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000431%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000421%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="其他",武汉外语
-rtsp://111.48.34.138:1554/170000004112/HBGD7388122639412469760674279984?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyafrO8el3Cs%2FuuN38ErzEFOgoCkbkJrnVnsJ8PpDfQlLI5IicQFaoB97XRh%2Bbi03kSS5MUlLfmaBDKuurnsCmJU8%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD7388122639412469760674279984%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C375925094%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="武汉教育" tvg-name="武汉教育" tvg-logo="https://epg.v1.mk/logo/武汉教育.png" group-title="其他",武汉教育
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000369?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3izkqF8K3u72zVnoO3q9jAiFzJsfjf5GP7m8%2BphBuZ1AgbUnYmR7XmyQRyUGD1Enw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000379%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000001073135_0%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV4中文国际欧洲
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000558?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65MB2kpFyKoqeQ8TYsPYjqJukR4oN2Bj6IWgrdoXujzw0%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000558%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C484870989%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="央视",CCTV4中文国际美洲
@@ -327,22 +319,12 @@ rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000447?rrsip=10
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000068?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyabtg3Alhms7Ii4HtXw5N%2FgBO8FZQjoS6iJ92KdiW1lDEeBC1TnsCKq%2FzWsW15xsB9OSYFseOTBtlpw96YV1XAnw%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C00000001000000050000000000000090%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000246455_0%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 rtsp://111.48.34.138:1554/170000004112/HBGD8790008720259235848417405421?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaRv%2FtA0y%2BR6nZcZza7DxKdW8fO6UIKO14%2BDWjDp0SgW1958lMo0F4JO6leu%2BdDj9nWR243UYZcNSZQxUAw1aXes%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD8790008720259235848417405421%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2CHBGD8794393700751319049045868729_0%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="其他",卡酷少儿
-rtsp://111.48.34.138:1554/170000004112/HBGD7833080911839600643336215800?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaTrDZCCnP1r4jNin0fuEF1HQ0L39wXJsANjpb9Pjntxi1R%2BlfgSZ0X%2B3su6skVr0tMuEwtFqhnpI1JuyypKZvoQ%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD7833080911839600643336215800%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C384836312%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0LuFoFSu2Nvxun9VyOzlN9pwZ1dlTni5pmRY2XojO9hoJFF72g%2Bnh3%2FD7lUu6B9NE%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000613%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000604%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="其他",金鹰纪实
-rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000343?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY3izkqF8K3u72zVnoO3q9jA79r3Tb%2B%2BNpfWaqEYnCR2svfutepC8Vf1w7fplfoqKZk%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000353%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000343%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="卫视",三沙卫视
 rtsp://111.48.34.138:1554/170000004112/00000001000000050000000000000589?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyabtg3Alhms7Ii4HtXw5N%2FgAC0DawsOXcVTOAkjbYrR65aeMIdjubQAOPx5K1%2BtlBIb0K1MPBduGfpwF7MowiTp8%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C00000001000000050000000000000589%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000456%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.v1.mk/logo/兵团卫视.png" group-title="卫视",兵团卫视
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000516?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR65J0SymAR5lFMEbMq7zZLqqc0w1dlodfgOuuX6DMCgRdo%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000516%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000507%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://epg.v1.mk/logo/山东教育.png" group-title="卫视",山东教育
-rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000553?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaWjnNoKDQl9SjeaPsaN8WY0C0DawsOXcVTOAkjbYrR658AdgsaOu390VYFAhTdyjNWyOmoutcvvXov3shIlLQoY%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2C99180001000000050000000000000553%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C99180001000000060000000000000544%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
 rtsp://111.48.34.138:1554/170000004112/HBGD8213740706910740489902289856?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaSP0nl0EbQu7mQn2Q%2BG8UkFMbMh0Y7QDVvRPciW6g7lhdVNa6fcAuacNxPSmHjopjF2Jn%2F6d68sriEWHceflUmI%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD8213740706910740489902289856%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C401035169%2CEND&GuardEncType=2
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-rtsp://111.48.34.138:1554/170000004112/HBGD9934983436000788486629361083?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaTt1%2F22TZaGH%2FWV13Vpf5NF4WYn5ikeB6QpVm1B6l4%2F%2BLAgiUTfvjGqKxao1ErrR2bJqk0t%2BTQFqC%2FIEILUy3xk%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9934983436000788486629361083%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C482500586%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
 rtsp://111.48.34.138:1554/170000004112/HBGD9935036677102018564561783214?rrsip=10.126.2.138:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=uFkm0GdiOav7kI2n3UOyaXrtxw0hTISxe9FiMxpf3A75lozBIf5NT%2BR8xm1EuIlcC1CdT1QdEpHLFPPIwr7S01Ugqp2ZDvyYOAJQalH7PMQ%3D&version=1.0&accountinfo=%2C983564%2C10.207.65.173%2C20241112212434%2CHBGD9935036677102018564561783214%2C983564%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C482500902%2CEND&GuardEncType=2
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="央视",CCTV5
@@ -393,22 +375,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226642/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226737/1.m3u8
 #EXTINF:-1,tvg-id="超高清" tvg-name="超高清" tvg-logo="https://epg.v1.mk/logo/超高清.png" group-title="央视",CCTV超高清4K
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226766/1.m3u8
-#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="卫视",湖北教育
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226646/1.m3u8
-#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226626/1.m3u8
-#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226628/1.m3u8
-#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="卫视",湖北垄上
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
-#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="卫视",湖北经视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
-#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="卫视",湖北影视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226649/1.m3u8
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226689/1.m3u8
-#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="卫视",湖北生活
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226655/1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226117/1.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="卫视",青海卫视
@@ -475,18 +441,8 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226721/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226724/1.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226718/1.m3u8
-#EXTINF:-1,tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="卫视",北京卡酷少儿
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226698/1.m3u8
-#EXTINF:-1,tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" tvg-logo="https://epg.v1.mk/logo/北京卡酷少儿.png" group-title="卫视",北京卡酷少儿
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226177/1.m3u8
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/国学.png" group-title="其他",国学频道
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226629/1.m3u8
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="其他",金鹰纪实
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226666/1.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226715/1.m3u8
-#EXTINF:-1,tvg-id="CIBN好物" tvg-name="CIBN好物" tvg-logo="https://epg.v1.mk/logo/CIBN好物.png" group-title="其他",好笑剧场4K
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226722/1.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.v1.mk/logo/梨园.png" group-title="其他",梨园频道
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226727/1.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="其他",欢笑剧场4K
