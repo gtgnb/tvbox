@@ -161,8 +161,6 @@ http://111.48.34.237/PLTV/88888888/224/3221229870/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221229901/1.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://111.48.34.237/PLTV/88888888/224/3221229983/1.m3u8
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="其他",卡酷少儿
-http://111.48.34.237/PLTV/88888888/224/3221230040/1.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://111.48.34.237/PLTV/88888888/224/3221230138/1.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="卫视",重庆卫视
@@ -441,8 +439,6 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226721/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226724/1.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226718/1.m3u8
-#EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://epg.v1.mk/logo/国学.png" group-title="其他",国学频道
-http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226629/1.m3u8
 #EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.v1.mk/logo/梨园.png" group-title="其他",梨园频道
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226727/1.m3u8
 #EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://epg.v1.mk/logo/欢笑剧场4K.png" group-title="其他",欢笑剧场4K
