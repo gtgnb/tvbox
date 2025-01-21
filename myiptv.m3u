@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
+http://111.48.34.237/PLTV/88888888/224/3221230440/1.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV2
 http://111.48.34.237/PLTV/88888888/224/3221230359/1.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="央视",CCTV2
@@ -79,8 +81,6 @@ ttp://111.48.34.237/PLTV/88888888/224/3221230428/1.m3u8
 http://111.48.34.237/PLTV/88888888/224/3221230430/1.m3u8
 #EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="卫视",湖北综合
 http://111.48.34.237/PLTV/88888888/224/3221230439/1.m3u8
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1
-http://111.48.34.237/PLTV/88888888/224/3221230440/1.m3u8
 #EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="卫视",湖北公共新闻
 http://111.48.34.237/PLTV/88888888/224/3221230441/1.m3u8
 #EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="卫视",湖北生活
